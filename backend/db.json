@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "name": "Veio Do Formulario",
+      "price": "9.99",
+      "id": 4
+    },
+    {
+      "name": "Iphone 12 Pro Max",
+      "price": "14.000",
+      "id": 5
+    },
+    {
+      "name": "Camiseta ",
+      "price": "13000",
+      "id": 6
+    },
+    {
+      "name": "aaa",
+      "price": "111",
+      "id": 7
+    }
+  ]
+}
